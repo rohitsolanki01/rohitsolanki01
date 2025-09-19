@@ -1,20 +1,18 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,13&height=180&section=header&text=ROHIT%20SOLANKI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer&descAlignY=58&descAlign=center" alt="Header"/>
+</h1>
+
 <div align="center">
 
-# ROHIT SOLANKI
-## Full-Stack Developer & MERN Specialist
-
-<!-- Clean Geometric Header -->
-![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,30&height=100&section=header&text=&fontSize=0)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Crafting+Modern+Web+Experiences;React+%7C+Node.js+%7C+MongoDB+Expert;Always+Building%2C+Always+Learning)](https://git.io/typing-svg)
-
-**`Building the future, one commit at a time`**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=rohitsolanki01&style=flat-square&color=6366f1)](https://github.com/rohitsolanki01)
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=20&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&multiline=true&width=700&height=60&lines=%E2%9A%A1+Engineering+Digital+Solutions;%F0%9F%9A%80+MERN+Stack+Specialist;%F0%9F%8C%90+Building+Tomorrow's+Web)](https://git.io/typing-svg)
 
 </div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-00D9FF?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=rohitsolanki01&style=for-the-badge&color=8b5cf6&label=VISITORS"/>
+</div>
+
 
 
 
