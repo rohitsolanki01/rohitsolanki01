@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github.com/rohitsolanki01/)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&theme=radical)
 
 ---
 
