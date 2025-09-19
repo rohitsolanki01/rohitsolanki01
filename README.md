@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3C%2F%3E+const+developer+%3D+%7B;++name%3A+'Rohit+Solanki'%2C;++expertise%3A+%5B'React'%2C+'Node.js'%2C+'MongoDB'%5D%2C;++passion%3A+'Building+Digital+Solutions';%7D%3B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3C%2F%3E+const+developer+%3D+%7B;++name%3A+'Rohit+Solanki'%2C;++expertise%3A+%5B'React'%2C+'Node.js'%2C+'MongoDB'%5D%2C;++passion%3A)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
