@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&multiline=true&width=1000&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Crafting+Digital+Solutions;%E2%9A%A1+MERN+Stack+Developer;%F0%9F%9A%80+Always+Learning+%26+Building;%F0%9F%8C%9F+Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
 
 <!-- Visitor Counter -->
-![Visitor Count](https://profile-counter.glitch.me/rohitsolanki01/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=rohitsolanki01&color=brightgreen&style=flat-square)
 
 </div>
 
