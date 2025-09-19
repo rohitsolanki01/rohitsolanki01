@@ -121,6 +121,32 @@
 
 ---
 
+## 📊 GitHub Analytics & Contribution Insights
+
+<div align="center">
+
+### ⚡ Performance Dashboard
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitsolanki01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+
+### 🔥 Contribution Streak
+<img src="https://streak-stats.demolab.com?user=rohitsolanki01&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+### 📈 Activity Graph - Last 31 Days
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitsolanki01&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🌟 3D Contribution Calendar
+![3D Contribution](https://raw.githubusercontent.com/rohitsolanki01/rohitsolanki01/output/github-contribution-grid-snake-dark.svg)
+
+### 🏆 Achievement Showcase
+<img src="https://github-profile-trophy.vercel.app/?username=rohitsolanki01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" alt="GitHub Trophies" />
+
+### 📊 Contribution Stats Summary
+<img src="https://github-contributions.vercel.app/api?username=rohitsolanki01&theme=dark" alt="Contribution Graph" />
+
+</div>
+
+
 ## 🤝 Let's Connect
 
 <div align="center">
