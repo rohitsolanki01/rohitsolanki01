@@ -30,7 +30,7 @@ Hi there! I’m Rohit Solanki, a passionate MERN Stack Developer 🚀 who loves 
 
 ⚡ Fun fact: I can spend hours debugging just to see that one green check ✅
 
-📫 Reach me at: rohitsolanki0473@gmail.com| LinkedIn
+📫 Reach me at: rohitsolanki0473@gmail.com| https://www.linkedin.com/in/rohit-solanki-495860348/
 ---
 
 ## 🛠️ Tech Stack
