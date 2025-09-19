@@ -101,8 +101,8 @@ rohit@developer:~$ coffee_level
 
 ### ⚡ GitHub Stats Powerhouse
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitsolanki01&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&langs_count=12&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=rohitsolanki01&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&theme=react&hide_border=true" />
 
 ### 🔥 Streak Stats
 <img src="https://streak-stats.demolab.com?user=rohitsolanki01&theme=react&hide_border=true" alt="GitHub Streak" />
