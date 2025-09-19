@@ -1,17 +1,15 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,13&height=180&section=header&text=ROHIT%20SOLANKI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer&descAlignY=58&descAlign=center" alt="Header"/>
-</h1>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=20&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&multiline=true&width=700&height=60&lines=%E2%9A%A1+Engineering+Digital+Solutions;%F0%9F%9A%80+MERN+Stack+Specialist;%F0%9F%8C%90+Building+Tomorrow's+Web)](https://git.io/typing-svg)
+# `ROHIT SOLANKI`
+### **Full-Stack Developer** • **MERN Specialist** • **Problem Solver**
+
+![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2000&pause=1500&color=00F5FF&center=true&vCenter=true&width=500&lines=const+developer+%3D+%22Full-Stack%22%3B;Building+%7B+React%2C+Node%2C+MongoDB+%7D%3B;while(learning)+%7B+code()%3B+%7D)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-00D9FF?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=rohitsolanki01&style=for-the-badge&color=8b5cf6&label=VISITORS"/>
-</div>
+---
 
 
 
