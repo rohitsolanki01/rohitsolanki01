@@ -1,17 +1,18 @@
-# 👋 ROHIT SOLANKI - Full-Stack Developer
+# 🚀 ROHIT SOLANKI
+### Full-Stack Developer | MERN Specialist | Digital Architect
 
-<!-- Animated Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ROHIT%20SOLANKI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Specialist&descAlignY=55&descAlign=center)
+<!-- Sleek Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=150&section=header&text=ROHIT%20SOLANKI&fontSize=42&fontColor=00ffff&animation=twinkling&fontAlignY=70&desc=Architecting%20Digital%20Solutions&descAlignY=90&descAlign=center)
 
-<!-- Multi-line Typing Animation -->
+<!-- Refined Typing Animation -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&multiline=true&width=1000&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Crafting+Digital+Solutions;%E2%9A%A1+MERN+Stack+Developer;%F0%9F%9A%80+Always+Learning+%26+Building;%F0%9F%8C%9F+Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Full-Stack+MERN+Developer;Building+Scalable+Web+Solutions;Turning+Complex+Ideas+Into+Code)](https://git.io/typing-svg)
 
-<!-- Visitor Counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=rohitsolanki01&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=rohitsolanki01&style=for-the-badge&color=00ffff&label=PROFILE+VIEWS)
 
 </div>
+
 
 ---
 
