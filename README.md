@@ -16,15 +16,21 @@
 ## 💫 About Me
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350" />
+👨‍💻 About Me
 
-**🎯 Mission:** *Transforming complex ideas into elegant digital solutions*
+Hi there! I’m Rohit Solanki, a passionate MERN Stack Developer 🚀 who loves building modern web applications with clean code, scalable architecture, and user-friendly designs.
 
-- 🚀 Building **scalable web applications** with modern technologies
-- 🌐 Exploring **cloud-native architectures** and DevOps practices  
-- 🔬 Experimenting with **emerging technologies** and best practices
-- 📚 Sharing knowledge through **open-source contributions**
-- ☕ Fueled by coffee and driven by curiosity
+🔭 Currently working on: Full-Stack Projects using React, Node.js, and MongoDB
 
+🌱 Learning & exploring: Next.js, TypeScript, and Cloud Deployment (AWS/Render/Vercel)
+
+💡 Interests: Problem-solving, Open Source, and creating impactful digital solutions
+
+💬 Ask me about: React, Express, MongoDB, REST APIs, and JavaScript/TypeScript
+
+⚡ Fun fact: I can spend hours debugging just to see that one green check ✅
+
+📫 Reach me at: rohitsolanki0473@gmail.com| LinkedIn
 ---
 
 ## 🛠️ Tech Stack
