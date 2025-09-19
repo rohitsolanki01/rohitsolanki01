@@ -1,15 +1,24 @@
 <div align="center">
 
-# `ROHIT SOLANKI`
-### **Full-Stack Developer** • **MERN Specialist** • **Digital Architect**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=150&section=header&text=&fontSize=0"/>
 
-![Minimal Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png)
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=45&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=ROHIT+SOLANKI" alt="Name"/>
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=const+developer+%3D+new+FullStackEngineer();+Building+scalable+web+experiences;+%7B+React%2C+Node.js%2C+TypeScript%2C+MongoDB+%7D;+while(coding)+%7B+solveProblem();+%7D)](https://git.io/typing-svg)
+<h3 style="margin-top: -10px;">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Full-Stack+Developer+•+MERN+Specialist;Digital+Architect+•+Problem+Solver;Building+tomorrow's+web+experiences" alt="Titles"/>
+</h3>
 
-<img src="https://komarev.com/ghpvc/?username=rohitsolanki01&style=for-the-badge&color=00d9ff&labelColor=000000&label=PROFILE+VIEWS"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=rohitsolanki01&style=for-the-badge&color=6366f1&labelColor=1e293b&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/rohitsolanki01?style=for-the-badge&color=8b5cf6&labelColor=1e293b&label=FOLLOWERS"/>
+</p>
 
 </div>
+
 
 ---
 
