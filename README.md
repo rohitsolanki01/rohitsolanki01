@@ -79,15 +79,12 @@
 ### 📈 Activity Graph - Last 31 Days
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitsolanki01&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🌟 3D Contribution Calendar
-![3D Contribution](https://raw.githubusercontent.com/rohitsolanki01/rohitsolanki01/output/github-contribution-grid-snake-dark.svg)
 
 ### 🏆 Achievement Showcase
 <img src="https://github-profile-trophy.vercel.app/?username=rohitsolanki01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" alt="GitHub Trophies" />
 
 ### 📊 Contribution Stats Summary
 <img src="https://github-contributions.vercel.app/api?username=rohitsolanki01&theme=dark" alt="Contribution Graph" />
-
 </div>
 
 
