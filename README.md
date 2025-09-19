@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohit Solanki
 
-<!--
-**rohitsolanki01/rohitsolanki01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer (MongoDB, Express, React, Node.js)  
+🚀 Love building full-stack web apps  
+🌱 Currently learning DevOps & Cloud  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- JavaScript | React | Node.js | Express | MongoDB  
+- HTML | CSS | Tailwind CSS | Git & GitHub  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github.com/rohitsolanki01/rohitsolanki01/)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 🌍 Connect with me
+- [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/rohit-solanki-495860348/)) 
+- 📧 Email: rohitsolanki0473@gmail.com
