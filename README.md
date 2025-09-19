@@ -126,15 +126,15 @@ rohit@developer:~$ coffee_level
 <!-- Project Cards will be dynamically generated based on your actual repos -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-**🛒 E-Commerce Platform**  
-*Full-stack MERN application with advanced features*  
-`React` `Node.js` `MongoDB` `Stripe Payment`  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://your-demo-link.com) [![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge)](https://github.com/rohitsolanki01/your-repo)
+**🏠 Nestigo - Property listing and Booking Platform**  
+*Full-stack  application with advanced features*  
+`Ejs` `Node.js` `MongoDB` `Express`  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://nestigo-elhe.onrender.com) [![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge)](https://github.com/rohitsolanki01/Nestigo)
 
-**💬 Real-time Chat Application**  
-*Socket.io powered chat with modern UI*  
-`React` `Socket.io` `Express` `MongoDB`  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://your-demo-link.com) [![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge)](https://github.com/rohitsolanki01/your-repo)
+**💰Tranquvest - Stock market platfor**  
+*A full-Stack stock buy-sell with advance dashboard*  
+`React` `Node.js` `Express` `MongoDB`  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://github.com/rohitsolanki01/Treding---app---Tranquvest) [![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge)](https://github.com/rohitsolanki01/your-repo)
 
 </div>
 
