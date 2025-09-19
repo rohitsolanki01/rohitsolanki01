@@ -1,118 +1,90 @@
 <div align="center">
 
 # `ROHIT SOLANKI`
-### **Full-Stack Developer** • **MERN Specialist** • **Problem Solver**
+### **Full-Stack Developer** • **MERN Specialist** • **Digital Architect**
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![Minimal Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2000&pause=1500&color=00F5FF&center=true&vCenter=true&width=500&lines=const+developer+%3D+%22Full-Stack%22%3B;Building+%7B+React%2C+Node%2C+MongoDB+%7D%3B;while(learning)+%7B+code()%3B+%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=const+developer+%3D+new+FullStackEngineer();+Building+scalable+web+experiences;+%7B+React%2C+Node.js%2C+TypeScript%2C+MongoDB+%7D;+while(coding)+%7B+solveProblem();+%7D)](https://git.io/typing-svg)
 
-</div>
-
----
-
-
-
-
----
-
-## 🌟 About Me
-
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-🚀 **Transforming Ideas into Digital Reality | Full-Stack Innovator**
-
-- 💻 **MERN Stack Specialist** building scalable web applications
-- 🌱 Currently exploring **DevOps & Cloud Architecture**
-- 🔥 Passionate about **Clean Code** and **Modern Technologies**
-- ☁️ Learning **AWS, Docker, and Microservices**
-- 🎯 Goal: Contributing to **Open Source** and building impactful products
-- ⚡ Fun fact: I debug with coffee and solve problems in my sleep! ☕
-
-### 👨‍💻 Current Status
-```bash
-rohit@developer:~$ whoami
-→ Full-Stack Developer & Problem Solver
-
-rohit@developer:~$ skills --list
-→ [React, Node.js, MongoDB, Express, TypeScript]
-
-rohit@developer:~$ status
-→ Building amazing web applications 🚀
-
-rohit@developer:~$ location
-→ India 🇮🇳
-
-rohit@developer:~$ coffee_level
-→ ████████░░ 80%
-```
-
----
-
-## 🛠️ Technology Arsenal
-
-<div align="center">
-
-### 💫 Skills & Technologies
-
-<!-- Animated Skill Icons -->
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,docker,aws,git,github,vscode&perline=7)](https://skillicons.dev)
+<img src="https://komarev.com/ghpvc/?username=rohitsolanki01&style=for-the-badge&color=00d9ff&labelColor=000000&label=PROFILE+VIEWS"/>
 
 </div>
 
-### 💻 Frontend Mastery
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-### 🛠️ Backend Power
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## 💫 About Me
 
-### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350" />
 
-### 🎨 Skill Progress Bars
-```
-⚛️  React & Next.js    ████████▓░ 85%
-🔷  TypeScript         ███████▓░░ 78%
-⚡  JavaScript ES6+    ████████▓░ 88%
-💚  Node.js           ████████▓░ 85%
-🚂  Express.js        ████████░░ 80%
-🍃  MongoDB           ███████▓░░ 75%
-🐳  Docker            ██████▓░░░ 65%
-☁️  AWS Services      ██████░░░░ 60%
-📊  Git & GitHub      █████████░ 90%
-```
+const rohit = {
+role: "Full-Stack Developer",
+specialization: ["MERN Stack", "Cloud Architecture", "DevOps"],
+currentFocus: "Building scalable web applications",
+learning: ["AWS", "Docker", "Microservices", "AI/ML"],
+passion: "Clean code & innovative solutions",
+location: "India 🇮🇳",
+availability: "Open for collaboration"
+};
+
+**🎯 Mission:** *Transforming complex ideas into elegant digital solutions*
+
+- 🚀 Building **scalable web applications** with modern technologies
+- 🌐 Exploring **cloud-native architectures** and DevOps practices  
+- 🔬 Experimenting with **emerging technologies** and best practices
+- 📚 Sharing knowledge through **open-source contributions**
+- ☕ Fueled by coffee and driven by curiosity
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ⚡ GitHub Stats Powerhouse
+### Core Technologies
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,docker,aws,git&perline=6)](https://skillicons.dev)
 
- <img src="https://github-readme-stats.vercel.app/api?username=rohitsolanki01&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&theme=react&hide_border=true" />
+</div>
 
-### 🔥 Streak Stats
-<img src="https://streak-stats.demolab.com?user=rohitsolanki01&theme=react&hide_border=true" alt="GitHub Streak" />
+### 🎨 Frontend Ecosystem
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=rohitsolanki01&theme=matrix&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+### ⚡ Backend Infrastructure
+<p>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+</p>
 
-### 📈 Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitsolanki01&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🔧 DevOps & Tools
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitsolanki01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+
+<img src="https://streak-stats.demolab.com?user=rohitsolanki01&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohitsolanki01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -122,90 +94,52 @@ rohit@developer:~$ coffee_level
 
 <div align="center">
 
-### 🌟 My Best Work
-
-<!-- Project Cards will be dynamically generated based on your actual repos -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-**🏠 Nestigo - Property listing and Booking Platform**  
-*Full-stack  application with advanced features*  
-`Ejs` `Node.js` `MongoDB` `Express`  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://nestigo-elhe.onrender.com) [![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge)](https://github.com/rohitsolanki01/Nestigo)
-
-**💰Tranquvest - Stock market platfor**  
-*A full-Stack stock buy-sell with advance dashboard*  
-`React` `Node.js` `Express` `MongoDB`  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://github.com/rohitsolanki01/Treding---app---Tranquvest) [![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge)](https://github.com/rohitsolanki01/your-repo)
+### 🌟 Portfolio Highlights
 
 </div>
 
-</div>
+<table>
+<tr>
+<td width="50%">
+
+**🏡 Nestigo - Property Platform**
+*Full-stack rental marketplace with advanced booking system*
+
+- **Tech:** `EJS` `Node.js` `MongoDB` `Express`
+- **Features:** Real-time bookings, payment integration, user authentication
+- **Highlights:** Responsive design, RESTful APIs, MVC architecture
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://nestigo-elhe.onrender.com) 
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitsolanki01/Nestigo)
+
+</td>
+<td width="50%">
+
+**📈 Tranquvest - Trading Platform**  
+*Professional stock market dashboard with real-time data*
+
+- **Tech:** `React` `Node.js` `Express` `MongoDB`
+- **Features:** Real-time stock data, portfolio tracking, buy/sell orders
+- **Highlights:** JWT auth, API integration, responsive dashboard
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/rohitsolanki01/Treding---app---Tranquvest) 
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitsolanki01/Treding---app---Tranquvest)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎵 What I'm Listening To
+## 🤝 Let's Connect
 
 <div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
-
-</div>
-
----
-
-## 💭 Daily Motivation
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic&author=Anonymous%20Developer)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-### Let's Build Something Amazing Together! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-solanki-495860348/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitsolanki0473@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Rohit_01_tech)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitsolanki0473@gmail.com)
 
-### 📧 Contact Information
-- **Email:** rohitsolanki0473@gmail.com
-- **Location:** India 🇮🇳
-- **Timezone:** Asia/Kolkata (GMT+5:30)
-
-</div>
-
----
-
-## 🎮 Achievement Unlocked
-
-<div align="center">
-
-🌅 **Early Bird** - Commits before 8 AM  
-🦉 **Night Owl** - Commits after 10 PM  
-🔥 **Streak Master** - 30+ day commit streak  
-⭐ **Star Collector** - 100+ stars earned  
-🦸 **Open Source Hero** - 10+ public repos  
-
-### Developer Level: 🚀 Senior Developer
-**XP:** Based on commits + stars + followers  
-**Status:** Always learning and building! 💪
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<!-- WakaTime Stats (if you have WakaTime setup) -->
-![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=rohitsolanki01&theme=react&hide_border=true)
+### 📍 **Available for freelance projects and collaborations**
 
 </div>
 
@@ -213,19 +147,17 @@ rohit@developer:~$ coffee_level
 
 <div align="center">
 
-### 🌟 "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." 
+### *"Code is poetry written in logic, and every bug is just a comma in the wrong place."*
 
-**Thanks for visiting my profile!** ⭐  
-**Don't forget to check out my repositories and give them a star if you find them useful!** 🚀
+**Thanks for stopping by!** ⭐  
+*Don't forget to check out my repositories and leave a star if you find them useful!* 🚀
 
-![Wave GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
----
-
-**💡 Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=rohitsolanki01&color=brightgreen&style=flat-square)  
-**⏰ Last Updated:** `Generated automatically every 6 hours`
+![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 </div>
 
-<!-- Footer Wave -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
