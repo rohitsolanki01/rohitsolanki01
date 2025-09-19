@@ -1,4 +1,4 @@
-# 🚀 ROHIT SOLANKI
+#  ROHIT SOLANKI
 ### Full-Stack Developer | MERN Specialist | Digital Architect
 
 <!-- Sleek Header Banner -->
