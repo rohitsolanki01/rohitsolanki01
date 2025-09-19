@@ -16,6 +16,7 @@
 ## 💫 About Me
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350" />
+
 👨‍💻 About Me
 
 Hi there! I’m Rohit Solanki, a passionate MERN Stack Developer 🚀 who loves building modern web applications with clean code, scalable architecture, and user-friendly designs.
