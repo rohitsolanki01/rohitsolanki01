@@ -1,78 +1,231 @@
-<!-- Cyberpunk Matrix Inspired GitHub Profile -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Rohit+Solanki;Full-Stack+Architect;MERN+Stack+Wizard+🧙‍♂️;Cloud+Native+Developer+☁️;DevOps+Explorer+🌐" alt="Typing SVG" />
-</h1>
+# 👋 ROHIT SOLANKI - Full-Stack Developer
+
+<!-- Animated Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ROHIT%20SOLANKI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Specialist&descAlignY=55&descAlign=center)
+
+<!-- Multi-line Typing Animation -->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&multiline=true&width=1000&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Crafting+Digital+Solutions;%E2%9A%A1+MERN+Stack+Developer;%F0%9F%9A%80+Always+Learning+%26+Building;%F0%9F%8C%9F+Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
+
+<!-- Visitor Counter -->
+![Visitor Count](https://profile-counter.glitch.me/rohitsolanki01/count.svg)
+
+</div>
 
 ---
 
 ## 🌟 About Me
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-✨ Transforming Ideas into Digital Reality | **Full-Stack Innovator**  
-🔭 Currently learning **Kubernetes | Microservices | GraphQL**  
-⚡ Passionate about **Building the Future with Code 🚀**
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
----
+🚀 **Transforming Ideas into Digital Reality | Full-Stack Innovator**
 
-## 🛠 Tech Stack
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+- 💻 **MERN Stack Specialist** building scalable web applications
+- 🌱 Currently exploring **DevOps & Cloud Architecture**
+- 🔥 Passionate about **Clean Code** and **Modern Technologies**
+- ☁️ Learning **AWS, Docker, and Microservices**
+- 🎯 Goal: Contributing to **Open Source** and building impactful products
+- ⚡ Fun fact: I debug with coffee and solve problems in my sleep! ☕
 
-  <!-- Backend -->
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+### 👨‍💻 Current Status
+```bash
+rohit@developer:~$ whoami
+→ Full-Stack Developer & Problem Solver
 
-  <!-- Tools -->
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+rohit@developer:~$ skills --list
+→ [React, Node.js, MongoDB, Express, TypeScript]
 
----
+rohit@developer:~$ status
+→ Building amazing web applications 🚀
 
-## ⚡ GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitsolanki01&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&theme=react&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=rohitsolanki01&theme=react&hide_border=true" />
-</p>
+rohit@developer:~$ location
+→ India 🇮🇳
+
+rohit@developer:~$ coffee_level
+→ ████████░░ 80%
+```
 
 ---
 
-## 📊 Skills Matrix
-```text
-Frontend Development     React 85% | JavaScript 90% | TypeScript 75% | Tailwind 80%
-Backend Development      Node.js 85% | Express.js 80% | MongoDB 75% | REST APIs 85%
-DevOps & Tools           Git/GitHub 90% | Docker 60% | AWS 55% | Linux 70%
+## 🛠️ Technology Arsenal
 
+<div align="center">
 
-🚀 Featured Projects
-🌟 E-Commerce Platform
+### 💫 Skills & Technologies
 
-Full-stack MERN application with Stripe payment integration
+<!-- Animated Skill Icons -->
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,docker,aws,git,github,vscode&perline=7)](https://skillicons.dev)
 
+</div>
 
+### 💻 Frontend Mastery
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### 🛠️ Backend Power
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-💬 Real-time Chat App
+### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Socket.io powered chat app with live messaging
+### 🎨 Skill Progress Bars
+```
+⚛️  React & Next.js    ████████▓░ 85%
+🔷  TypeScript         ███████▓░░ 78%
+⚡  JavaScript ES6+    ████████▓░ 88%
+💚  Node.js           ████████▓░ 85%
+🚂  Express.js        ████████░░ 80%
+🍃  MongoDB           ███████▓░░ 75%
+🐳  Docker            ██████▓░░░ 65%
+☁️  AWS Services      ██████░░░░ 60%
+📊  Git & GitHub      █████████░ 90%
+```
 
+---
 
+## 📊 GitHub Analytics
 
+<div align="center">
 
-🐍 Contribution Snake
+### ⚡ GitHub Stats Powerhouse
 
-🎵 Spotify Now Playing
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitsolanki01&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&langs_count=12&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
 
-📫 Connect with Me
-<p align="center"> <a href="mailto:rohitsolanki0473@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://linkedin.com/in/rohitsolanki01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/rohitsolanki01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> </p>
+### 🔥 Streak Stats
+<img src="https://streak-stats.demolab.com?user=rohitsolanki01&theme=react&hide_border=true" alt="GitHub Streak" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=rohitsolanki01&theme=matrix&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+
+### 📈 Contribution Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitsolanki01&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌟 My Best Work
+
+<!-- Project Cards will be dynamically generated based on your actual repos -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+**🛒 E-Commerce Platform**  
+*Full-stack MERN application with advanced features*  
+`React` `Node.js` `MongoDB` `Stripe Payment`  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://your-demo-link.com) [![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge)](https://github.com/rohitsolanki01/your-repo)
+
+**💬 Real-time Chat Application**  
+*Socket.io powered chat with modern UI*  
+`React` `Socket.io` `Express` `MongoDB`  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://your-demo-link.com) [![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge)](https://github.com/rohitsolanki01/your-repo)
+
+</div>
+
+</div>
+
+---
+
+## 🎵 What I'm Listening To
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
+
+</div>
+
+---
+
+## 💭 Daily Motivation
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic&author=Anonymous%20Developer)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+### Let's Build Something Amazing Together! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitsolanki01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitsolanki0473@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rohitsolanki01)
+
+### 📧 Contact Information
+- **Email:** rohitsolanki0473@gmail.com
+- **Location:** India 🇮🇳
+- **Timezone:** Asia/Kolkata (GMT+5:30)
+
+</div>
+
+---
+
+## 🎮 Achievement Unlocked
+
+<div align="center">
+
+🌅 **Early Bird** - Commits before 8 AM  
+🦉 **Night Owl** - Commits after 10 PM  
+🔥 **Streak Master** - 30+ day commit streak  
+⭐ **Star Collector** - 100+ stars earned  
+🦸 **Open Source Hero** - 10+ public repos  
+
+### Developer Level: 🚀 Senior Developer
+**XP:** Based on commits + stars + followers  
+**Status:** Always learning and building! 💪
+
+</div>
+
+---
+
+## 📈 Coding Activity
+
+<div align="center">
+
+<!-- WakaTime Stats (if you have WakaTime setup) -->
+![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=rohitsolanki01&theme=react&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." 
+
+**Thanks for visiting my profile!** ⭐  
+**Don't forget to check out my repositories and give them a star if you find them useful!** 🚀
+
+![Wave GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+---
+
+**💡 Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=rohitsolanki01&color=brightgreen&style=flat-square)  
+**⏰ Last Updated:** `Generated automatically every 6 hours`
+
+</div>
+
+<!-- Footer Wave -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
