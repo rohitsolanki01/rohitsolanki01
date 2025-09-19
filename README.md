@@ -1,17 +1,21 @@
-#  ROHIT SOLANKI
-### Full-Stack Developer | MERN Specialist | Digital Architect
-
-<!-- Sleek Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=150&section=header&text=ROHIT%20SOLANKI&fontSize=42&fontColor=00ffff&animation=twinkling&fontAlignY=70&desc=Architecting%20Digital%20Solutions&descAlignY=90&descAlign=center)
-
-<!-- Refined Typing Animation -->
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Full-Stack+MERN+Developer;Building+Scalable+Web+Solutions;Turning+Complex+Ideas+Into+Code)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohitsolanki01&style=for-the-badge&color=00ffff&label=PROFILE+VIEWS)
+# ROHIT SOLANKI
+## Full-Stack Developer & MERN Specialist
+
+<!-- Clean Geometric Header -->
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,30&height=100&section=header&text=&fontSize=0)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Crafting+Modern+Web+Experiences;React+%7C+Node.js+%7C+MongoDB+Expert;Always+Building%2C+Always+Learning)](https://git.io/typing-svg)
+
+**`Building the future, one commit at a time`**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=rohitsolanki01&style=flat-square&color=6366f1)](https://github.com/rohitsolanki01)
+
+---
 
 </div>
+
 
 
 ---
