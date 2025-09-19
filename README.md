@@ -17,16 +17,6 @@
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350" />
 
-const rohit = {
-role: "Full-Stack Developer",
-specialization: ["MERN Stack", "Cloud Architecture", "DevOps"],
-currentFocus: "Building scalable web applications",
-learning: ["AWS", "Docker", "Microservices", "AI/ML"],
-passion: "Clean code & innovative solutions",
-location: "India 🇮🇳",
-availability: "Open for collaboration"
-};
-
 **🎯 Mission:** *Transforming complex ideas into elegant digital solutions*
 
 - 🚀 Building **scalable web applications** with modern technologies
