@@ -76,16 +76,17 @@
 ### 🔥 Contribution Streak
 <img src="https://streak-stats.demolab.com?user=rohitsolanki01&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
-### 📈 Activity Graph - Last 31 Days
+### 📈 Activity Graph - Working Version
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitsolanki01&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 ### 🏆 Achievement Showcase
-<img src="https://github-profile-trophy.vercel.app/?username=rohitsolanki01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=rohitsolanki01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 
-### 📊 Contribution Stats Summary
-<img src="https://github-contributions.vercel.app/api?username=rohitsolanki01&theme=dark" alt="Contribution Graph" />
+### 📊 Contribution Summary Chart
+<img src="https://ghchart.rshah.org/00D9FF/rohitsolanki01" alt="GitHub Contribution Chart" />
+
 </div>
+
 
 
 ---
