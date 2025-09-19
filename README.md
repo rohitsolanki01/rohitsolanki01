@@ -82,7 +82,7 @@ availability: "Open for collaboration"
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitsolanki01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 
-<img src="https://streak-stats.demolab.com?user=rohitsolanki01&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<img src="https://camo.githubusercontent.com/0acdd945761e3ed9c27bcaa63859cb34fc45cb977b4a33d47cd94fb01438919d/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d726f686974736f6c616e6b693031267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565266261636b67726f756e643d3044313131372672696e673d30304439464626666972653d303044394646266375727253747265616b4c6162656c3d303044394646" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=rohitsolanki01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 
