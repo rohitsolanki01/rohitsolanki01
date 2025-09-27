@@ -161,7 +161,6 @@ Hi there! I’m Rohit Solanki, a passionate MERN Stack Developer 🚀 who loves 
 **Thanks for stopping by!** ⭐  
 *Don't forget to check out my repositories and leave a star if you find them useful!* 🚀
 
-![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 </div>
 
