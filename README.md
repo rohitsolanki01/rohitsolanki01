@@ -3,8 +3,6 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ROHIT%20SOLANKI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Specialist&descAlignY=51&descSize=18"/>
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BFFC8&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Transforming+Ideas+into+Digital+Reality+%F0%9F%92%A1;React+%7C+Node.js+%7C+MongoDB+Expert+%E2%9A%A1;Open+to+Freelance+%26+Full-Time+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" /></a>
 
 <!-- Profile Views & Stats -->
 <p align="center">
@@ -137,10 +135,6 @@ const rohit = {
 
 ### 🏡 Nestigo - Property Rental Platform
 
-<a href="https://nestigo-elhe.onrender.com" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%" alt="Nestigo"/>
-</a>
-
 **Full-stack property rental marketplace with advanced booking system**
 
 #### ⚡ Key Features
@@ -171,9 +165,6 @@ const rohit = {
 
 ### 📈 Tranquvest - Trading Platform
 
-<a href="https://github.com/rohitsolanki01/Treding---app---Tranquvest" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%" alt="Tranquvest"/>
-</a>
 
 **Professional stock trading dashboard with real-time market data**
 
