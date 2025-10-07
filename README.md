@@ -10,14 +10,46 @@
 
 ---
 
-## About Me
+```javascript
+const rohit = {
+    name: "Rohit Solanki",
+    location: "Ankleshwar, Gujarat, India 🇮🇳",
+    role: "Full Stack Developer",
+    company: "Available for Hire",
+    
+    workingOn: "Building production-ready MERN applications",
+    learning: ["Next.js 15", "Docker", "AWS Cloud", "System Design"],
+    
+    skills: {
+        languages: ["JavaScript", "TypeScript", "Python", "SQL"],
+        frontend: ["React", "Next.js", "Redux", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "REST APIs", "GraphQL"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+        tools: ["Git", "Docker", "AWS", "Postman", "VS Code"]
+    },
+    
+    contact: {
+        email: "rohitsolanki0473@gmail.com",
+        linkedin: "rohit-solanki-495860348",
+        twitter: "@Rohit_01_tech"
+    },
+    
+    motto: "Clean Code | Scalable Architecture | User Experience First"
+};
+```
 
-I'm a Full Stack Developer specializing in building scalable web applications with the MERN stack. I focus on writing clean, maintainable code and creating exceptional user experiences.
+<br clear="right"/>
 
-**Current Focus:**
-- Building production-ready applications with Next.js and TypeScript
-- Learning Docker, AWS Cloud, and System Design
-- Open to collaborations on innovative web projects
+### 🎯 What I'm Focused On
+
+- 🔭 Building **scalable full-stack applications** with modern tech stack
+- 🌱 Mastering **Next.js, TypeScript, Docker** and **AWS Cloud Services**
+- 👯 Open to **collaborate** on innovative web projects
+- 💡 Passionate about **clean code**, **best practices**, and **performance optimization**
+- 📫 Reach me at: **rohitsolanki0473@gmail.com**
+- ⚡ Fun fact: **I turn bugs into features!** 🐛✨
+
+---
 
 **Contact:** rohitsolanki0473@gmail.com
 
@@ -25,31 +57,39 @@ I'm a Full Stack Developer specializing in building scalable web applications wi
 
 ## Technical Skills
 
-### Frontend
-- **Languages:** JavaScript, TypeScript
-- **Frameworks:** React, Next.js,Recoil
-- **Styling:** Tailwind CSS, Material-UI, CSS3
-- **Tools:** Vite, Webpack, Figma
-
-### Backend
-- **Runtime:** Node.js
-- **Frameworks:** Express.js
-- **APIs:** RESTful
-- **Real-time:** WebSocket
-
-### Databases
-- **NoSQL:** MongoDB, Redis
-- **SQL:** PostgreSQL, MySQL
-
-### DevOps & Tools
-- **Version Control:** Git, GitHub
-- **Containerization:** Docker, Kubernetes
-- **Cloud:** AWS Services
-- **Deployment:** Vercel, Render
-- **Testing:** Postman
-- **CI/CD:** GitHub Actions
-
----
+<div align="center">
+Languages & Core Technologies
+<p>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+</p>
+Backend & Databases
+<p>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
+</p>
+Tools & More
+<p>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="ESLint" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
+</p>
+Additional Technologies
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,tailwind,nextjs,vite,git,postman,vscode,figma,vercel&perline=12" />
+  </a>
+</p>
+</div>
 
 ## Featured Projects
 
@@ -88,16 +128,20 @@ Professional stock trading dashboard with real-time market data visualization.
 ---
 
 ## GitHub Statistics
-
 <div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitsolanki01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsolanki01&theme=tokyonight&hide_border=true" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitsolanki01&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitsolanki01&theme=default&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsolanki01&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitsolanki01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%" />
+</div>
+
 
 ---
 
