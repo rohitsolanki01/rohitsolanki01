@@ -13,7 +13,7 @@
 ```javascript
 const rohit = {
     name: "Rohit Solanki",
-    location: "Ankleshwar, Gujarat, India 🇮🇳",
+    location: "Surendranagar, Gujarat, India 🇮🇳",
     role: "Full Stack Developer",
     company: "Available for Hire",
     
