@@ -430,9 +430,6 @@ Collaborations:
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
-
-**Made with 💙 and ☕ in India**
-
-*Last Updated: October 2025 • Built with passion, shipped with pride*
+Thanks for visiting
 
 </div>
