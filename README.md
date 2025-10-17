@@ -114,8 +114,13 @@ Real-time trading application with live stock data, portfolio tracking, and mark
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsolanki01&theme=tokyonight&hide_border=true&background=0D1117&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=rohitsolanki01&theme=tokyonight&hide_border=true&background=0D1117&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak"/>
 </div>
+
+
+
+
+
 
 ---
 
