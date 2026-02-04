@@ -1,232 +1,202 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Rohit Solanki
+Rohit Solanki
+<div align="center">
+Full Stack Developer | MERN Stack Architect | Digital Craftsman 🚀
+https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/%F0%9F%93%A7_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/%F0%9F%92%BB_GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/%F0%9F%90%A6_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+Transforming ideas into elegant, scalable digital solutions
 
-### 🚀 Full Stack Developer | MERN Specialist
-
-I turn ideas into scalable web applications with clean code and modern tech.
-
-- 🔭 Currently building **production-grade MERN applications**
-- 🌱 Learning **Next.js 15, AWS Architecture, System Design**
-- 👯 Open to **collaborate on interesting projects**
-- 💬 Ask me about **React, Node.js, MongoDB, AWS**
-- ⚡ Fun fact: **I debug with console.log() 😄**
-- 📍 Based in **Ahmedabad, Gujarat, India**
-
-<br clear="right"/>
-
----
-
-## 🛠️ My Tech Arsenal
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br/>
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</details>
-
----
-
-## 💼 Work Experience
-
-### 🚀 Full Stack Developer Intern
-**Codec Tech** • Remote • *Dec 2024 - Feb 2025*
-
-```javascript
-const achievements = {
-  applications: "Built 3+ production MERN apps",
-  users: "Serving 500+ users with 99.5% uptime",
-  performance: "40% faster MongoDB queries",
-  delivery: "20% ahead of schedule",
-  quality: "95+ Lighthouse scores",
-  security: "OWASP compliance + JWT auth"
+</div>
+🌟 About Me
+<div align="center">
+javascript
+const developer = {
+  name: "Rohit Solanki",
+  role: "Full Stack Developer",
+  specialization: "MERN Stack & Modern Web Technologies",
+  location: "Ahmedabad, Gujarat, India 🇮🇳",
+  mindset: "Architect → Build → Optimize → Scale",
+  passion: "Creating exceptional digital experiences",
+  availability: "Open to exciting opportunities"
 };
-```
+</div>
+I architect and build production-ready web applications that are not just functional, but performant, scalable, and delightful to use. With expertise spanning the entire development stack, I bring ideas to life with clean code, modern architecture, and attention to detail.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+✨ Why Work With Me?
 
----
+🔥 End-to-end ownership from concept to deployment
 
-## 🏆 Projects That I'm Proud Of
+🎯 Performance-first approach (95+ Lighthouse scores)
 
-<table>
-<tr>
-<td width="50%">
+🔒 Security-conscious development (OWASP standards)
 
-### 📈 Tranquvest
-**Stock Trading Platform**
+📈 Scalable architecture design from day one
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+💡 Problem-solving mindset with elegant solutions
 
-**Features:**
-- 📊 Real-time portfolio tracking
-- 🔐 JWT authentication + bcrypt
-- ⚡ Redis caching (35% faster)
-- 📈 Chart.js visualizations
-- 👥 100+ active traders
-
-**[Live Demo](https://treding-app-tranquvest.vercel.app/) • [GitHub](https://github.com/rohitsolanki01/Treding---app---Tranquvest)**
-
-</td>
-<td width="50%">
-
-### 🏠 Nestigo
-**Property Rental Platform**
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Features:**
-- 🗺️ Geoapify Maps integration
-- 🔍 Advanced search filters
-- ⭐ Real-time reviews (40% ↑ engagement)
-- 🚀 50% faster load times
-- 📦 200+ listings
-
-**[Live Demo](https://nestigo-elhe.onrender.com/) • [GitHub](https://github.com/rohitsolanki01/Nestigo)**
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitsolanki01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rohitsolanki01&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsolanki01&custom_title=Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-## 🎓 Education & Certifications
-
-**🎓 Bachelor of Computer Science**  
-C.U. Shah University • Gujarat, India • 2023 - 2027
-
-**📜 Professional Certifications**
-
-<img src="https://img.shields.io/badge/AWS-Certified_Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/MERN_Stack-Certified_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
----
-
-## 🌱 Currently Exploring
-
-```typescript
-interface CurrentFocus {
-  learning: string[];
-  building: string[];
-  reading: string[];
-}
-
-const myJourney: CurrentFocus = {
-  learning: [
-    "Next.js 15 with Server Components",
-    "AWS Architecture (Lambda, ECS, RDS)",
-    "System Design & Scalability Patterns",
-    "Advanced TypeScript Patterns"
-  ],
-  building: [
-    "SaaS application with Next.js",
-    "Microservices with Node.js",
-    "Open source contributions"
-  ],
-  reading: [
-    "Designing Data-Intensive Applications",
-    "Clean Code by Robert Martin",
-    "System Design Interview by Alex Xu"
-  ]
-};
-```
-
----
-
-## 📫 Let's Connect & Collaborate!
-
-<p align="center">
-  <a href="https://idyllic-daffodil-128731.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rohit-solanki-495860348/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rohitsolanki0473@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/Rohit_01_tech">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/rohitsolanki01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+⚡ Tech Arsenal
+Frontend Mastery
+<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /> </p>
+Backend Excellence
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" /> </p>
+Cloud & DevOps
+<p> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" /> </p>
+🚀 Featured Projects
+Tranquvest | Stock Trading Platform 📈
+Live Demo: treding-app-tranquvest.vercel.app
 
 <div align="center">
+Metric	Achievement	Technology Impact
+Performance	95+ Lighthouse Score	React.memo + useMemo optimizations
+Response Time	35% faster APIs	Redis caching + optimized queries
+Security	Zero security incidents	JWT + bcrypt + rate limiting
+User Base	100+ active traders	Scalable architecture
+</div>
+javascript
+// Architecture Overview
+const Tranquvest = {
+  frontend: "React + TypeScript + Redux",
+  backend: "Node.js + Express + MongoDB",
+  features: [
+    "Real-time portfolio analytics",
+    "Interactive Chart.js visualizations",
+    "Secure authentication system",
+    "Optimized RESTful APIs",
+    "Responsive mobile-first design"
+  ],
+  deployment: "Vercel + Render"
+};
+Nestigo | Property Rental Marketplace 🏡
+Live Demo: nestigo-elhe.onrender.com
 
-### 💡 Open to Full-time Roles • Freelance Projects • Collaborations
+<table> <tr> <td width="50%">
+🎯 Key Features:
 
-<br/>
+🏘️ 200+ property listings
 
-<img src="https://komarev.com/ghpvc/?username=rohitsolanki01&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+🌍 Geoapify map integration
 
----
+⭐ Real-time review system
 
-**⭐️ From [rohitsolanki01](https://github.com/rohitsolanki01)**
+📸 Cloudinary image hosting
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+🔍 Advanced search filters
+
+</td> <td width="50%">
+📊 Performance Metrics:
+
+⚡ 50% faster page loads
+
+📈 40% engagement increase
+
+🔄 99.5% uptime
+
+🛡️ OWASP compliant
+
+📱 Fully responsive
+
+</td> </tr> </table>
+💼 Professional Journey
+Full Stack Developer Intern @ Codec Tech
+*Dec 2024 - Feb 2025 | Remote*
+
+<div align="center">
+Achievement	Impact	Technologies Used
+Built 3+ production apps	500+ users served	MERN Stack
+Optimized MongoDB queries	40% performance gain	MongoDB Aggregation
+Implemented security protocols	Zero breaches	JWT + OAuth 2.0
+Agile development	20% early delivery	Git + Scrum
+</div>
+📊 GitHub Impact
+<div align="center">
+Development Activity
+text
+🌱 Contributions 2024: 1,200+ commits
+🚀 Projects Built: 15+ repositories
+⭐ Tech Stack: MERN + Cloud + DevOps
+📈 Consistency: 98% active days
+GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rohitsolanki01&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=30,0d0d0d,1a1a2e&title_color=00ff88&text_color=ffffff&icon_color=00ff88" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=rohitsolanki01&theme=radical&hide_border=true&background=0D0D0D&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" width="48%" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=00ff88&text_color=ffffff" width="48%" /> <img src="https://github-profile-trophy.vercel.app/?username=rohitsolanki01&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="48%" /> </p></div>
+🎓 Education & Credentials
+Bachelor of Computer Science
+*C.U. Shah University • 2023 - 2027*
+
+<table> <tr> <th>Certification</th> <th>Issuer</th> <th>Year</th> <th>Badge</th> </tr> <tr> <td>AWS Certified Developer</td> <td>Amazon Web Services</td> <td>2025</td> <td><img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square" /></td> </tr> <tr> <td>MERN Stack Developer</td> <td>Namaste Courses</td> <td>2025</td> <td><img src="https://img.shields.io/badge/MERN-Expert-47A248?style=flat-square" /></td> </tr> </table>
+🎯 Current Focus & Vision
+<div align="center">
+🚀 Building Tomorrow's Tech Today
+<table> <tr> <td width="33%" align="center">
+🔭 Current Focus
+
+Next.js 15 + App Router
+
+Microservices Architecture
+
+Real-time Applications
+
+Cloud Native Development
+
+</td> <td width="33%" align="center">
+📚 Learning Path
+
+System Design Patterns
+
+Advanced DevOps
+
+Kubernetes Orchestration
+
+Machine Learning APIs
+
+</td> <td width="33%" align="center">
+💡 2025 Vision
+
+Launch SaaS Product
+
+Open Source Contributions
+
+Technical Blogging
+
+Community Mentoring
+
+</td> </tr> </table></div>
+🌈 Development Philosophy
+"Code is poetry, architecture is art, and performance is perfection"
+
+<div align="center">
+Principle	Implementation	Result
+Clean Code	SOLID + DRY + KISS	Maintainable, scalable systems
+Security First	OWASP Top 10 compliance	Robust, breach-resistant apps
+Performance	Lighthouse optimization	Lightning-fast experiences
+User-Centric	UX research + feedback loops	Delighted end-users
+</div>
+📬 Let's Build Something Amazing
+<div align="center">
+Ready to Bring Your Vision to Life? 🚀
+https://img.shields.io/badge/SEND_ME_AN_%F0%9F%93%A7-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/CONNECT_ON_%F0%9F%92%BC-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/VIEW_MY_%F0%9F%8C%90_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white
+
+📍 Ahmedabad, Gujarat, India
+🎯 Open to: Full-time • Freelance • Contract • Collaboration
+
+</div>
+<div align="center">
+🌟 Why I Stand Out
+const uniqueValueProposition = {
+  technicalDepth: "Full stack mastery with architecture focus",
+  businessImpact: "Build solutions that scale and generate value",
+  communication: "Clear, collaborative, and client-focused",
+  reliability: "Consistent delivery exceeding expectations",
+  innovation: "Always learning, always improving"
+};
+</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rohitsolanki01&color=00ff88&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Views" /> <br/> <i>"Turning coffee into code, and ideas into impact"</i> ☕ → 💻 → 🚀 </p><div align="center">
+© 2025 Rohit Solanki | Crafted with ❤️ and modern web technologies
+
+https://img.shields.io/github/stars/rohitsolanki01?style=social
+https://img.shields.io/github/followers/rohitsolanki01?style=social
 
 </div>
