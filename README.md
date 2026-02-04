@@ -251,6 +251,8 @@ Deploy:    Render • MongoDB Atlas
 ---
 
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
 <!-- GitHub Stats Card -->
