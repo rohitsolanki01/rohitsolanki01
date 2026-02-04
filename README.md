@@ -250,25 +250,37 @@ Deploy:    Render • MongoDB Atlas
 
 ---
 
-## 📊 GitHub Statistics
 
 <div align="center">
 
-### 📈 Contribution Stats
+<!-- GitHub Stats Card -->
+<a href="https://github.com/rohitsolanki01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitsolanki01&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitsolanki01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88" alt="GitHub Stats"/>
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/rohitsolanki01">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=rohitsolanki01&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</a>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=rohitsolanki01&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
+<br/>
 
-### 💻 Top Languages & Achievements
+<!-- Top Languages -->
+<a href="https://github.com/rohitsolanki01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+<!-- GitHub Trophies -->
+<a href="https://github.com/rohitsolanki01">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitsolanki01&theme=tokyonight&no-frame=false&row=1&column=7" alt="GitHub Trophies"/>
+</a>
 
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=rohitsolanki01&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<br/>
 
-### 📊 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsolanki01&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area_color=00FF88&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+<!-- Contribution Graph -->
+<a href="https://github.com/rohitsolanki01">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsolanki01&theme=tokyo-night&hide_border=false&area=true" width="100%" alt="Contribution Graph"/>
+</a>
 
 </div>
 
