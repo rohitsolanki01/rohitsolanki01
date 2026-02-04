@@ -257,24 +257,24 @@ Deploy:    Render • MongoDB Atlas
 
 <!-- GitHub Stats Card -->
 <a href="https://github.com/rohitsolanki01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitsolanki01&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=rohitsolanki01&theme=tokyonight&hide_border=true&fire=FF6B6B&currStreakLabel=FF6B6B&ring=4ECDC4" alt="GitHub Streak" width="100%" />
 </a>
 
 <!-- GitHub Streak Stats -->
 <a href="https://github.com/rohitsolanki01">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=rohitsolanki01&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=rohitsolanki01&theme=tokyonight&hide_border=true&fire=FF6B6B&currStreakLabel=FF6B6B&ring=4ECDC4" alt="GitHub Streak" width="100%" />
 </a>
 
 <br/>
 
 <!-- Top Languages -->
 <a href="https://github.com/rohitsolanki01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsolanki01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" width="100%" />
 </a>
 
 <!-- GitHub Trophies -->
 <a href="https://github.com/rohitsolanki01">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitsolanki01&theme=tokyonight&no-frame=false&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rohitsolanki01&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10&rank=-C,-B" alt="GitHub Trophies" width="100%" />
 </a>
 
 <br/>
