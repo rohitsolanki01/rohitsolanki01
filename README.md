@@ -1,10 +1,3 @@
-To make your profile stand out from the crowd, we need to move away from the standard "wall of badges" and create something that screams **"I am a developer."** Let's use a **"Terminal & Code" aesthetic**. This style is highly unique, clean, and immediately signals to recruiters and other engineers that you live and breathe code. It uses JavaScript syntax to tell your story and minimalist file-tree structures for your skills.
-
-Here is a completely fresh, highly unique, and ultra-professional version:
-
----
-
-```markdown
 <div align="center">
 
 # `console.log("Hello, World! I'm Rohit Solanki 👋");`
